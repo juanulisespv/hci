@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "concert-hall",
+      "description": "A grand concert hall with red velvet seats and a beautifully lit stage.",
+      "imageUrl": "https://images.unsplash.com/photo-1675327161957-929e3faa37cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb25jZXJ0JTIwaGFsbHxlbnwwfHx8fDE3NjA5NTY1NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concert hall"
+    },
+    {
+      "id": "art-gallery",
+      "description": "A modern art gallery with white walls and various paintings.",
+      "imageUrl": "https://images.unsplash.com/photo-1569084024058-1632922a4e1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXJ0JTIwZ2FsbGVyeXxlbnwwfHx8fDE3NjA5NTM2OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art gallery"
+    },
+    {
+      "id": "theater-stage",
+      "description": "An empty theater stage with a single spotlight.",
+      "imageUrl": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aGVhdGVyJTIwc3RhZ2V8ZW58MHx8fHwxNzYwOTM4ODAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "theater stage"
+    },
+    {
+      "id": "museum-interior",
+      "description": "The interior of a classical museum with statues and high ceilings.",
+      "imageUrl": "https://images.unsplash.com/photo-1664786063715-ac3182f3bff8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bXVzZXVtJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzYwOTkxMzIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum interior"
+    },
+    {
+      "id": "outdoor-festival",
+      "description": "A lively outdoor music festival with a crowd of people.",
+      "imageUrl": "https://images.unsplash.com/photo-1687575635638-f651830393e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxvdXRkb29yJTIwZmVzdGl2YWx8ZW58MHx8fHwxNzYwODkwMjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "outdoor festival"
+    },
+    {
+      "id": "ballet-performance",
+      "description": "Ballet dancers performing on stage.",
+      "imageUrl": "https://images.unsplash.com/photo-1758670334659-5a58d87fb8d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYWxsZXQlMjBwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NjA5ODUzODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ballet performance"
+    },
+    {
+      "id": "jazz-club",
+      "description": "A dimly lit jazz club with a saxophone on a stand.",
+      "imageUrl": "https://images.unsplash.com/photo-1628229892949-c98741d820ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8amF6eiUyMGNsdWJ8ZW58MHx8fHwxNzYwOTc5MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jazz club"
+    },
+    {
+      "id": "opera-house",
+      "description": "An opulent opera house with golden balconies.",
+      "imageUrl": "https://images.unsplash.com/photo-1494948141550-221698c089c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b3BlcmElMjBob3VzZXxlbnwwfHx8fDE3NjA5OTEzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "opera house"
+    },
+    {
+      "id": "street-art",
+      "description": "A colorful graffiti mural on a city wall.",
+      "imageUrl": "https://images.unsplash.com/photo-1517776832751-0a7e6993de03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHJlZXQlMjBhcnR8ZW58MHx8fHwxNzYwOTczMDczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "street art"
+    },
+    {
+      "id": "book-reading",
+      "description": "An author reading from their book to an audience.",
+      "imageUrl": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxib29rJTIwcmVhZGluZ3xlbnwwfHx8fDE3NjA5OTEzMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book reading"
+    },
+    {
+      "id": "gallery-detail-1",
+      "description": "Closeup of a painting in a gallery.",
+      "imageUrl": "https://images.unsplash.com/photo-1645616943933-60f0181c4731?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYWludGluZyUyMGNsb3NldXB8ZW58MHx8fHwxNzYwOTkxMzIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "painting closeup"
+    },
+    {
+      "id": "gallery-detail-2",
+      "description": "A sculpture in a brightly lit room.",
+      "imageUrl": "https://images.unsplash.com/photo-1649446327182-f72d2e53434a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY3VscHR1cmUlMjByb29tfGVufDB8fHx8MTc2MDk5MTMyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sculpture room"
+    },
+    {
+      "id": "gallery-detail-3",
+      "description": "People admiring artwork in a museum.",
+      "imageUrl": "https://images.unsplash.com/photo-1680793126293-0bed8c4a7ec9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bXVzZXVtJTIwdmlzaXRvcnN8ZW58MHx8fHwxNzYwOTkxMzIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum visitors"
+    },
+    {
+      "id": "gallery-detail-4",
+      "description": "The exterior of a modern museum building.",
+      "imageUrl": "https://images.unsplash.com/photo-1677774396192-66dc8824719e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNldW0lMjBleHRlcmlvcnxlbnwwfHx8fDE3NjA5OTEzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum exterior"
+    },
+    {
+      "id": "map-view",
+      "description": "A stylized map of a city for the map view background.",
+      "imageUrl": "https://images.unsplash.com/photo-1522678073884-26b1b87526e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2MDk1ODM1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    }
+  ]
+}
